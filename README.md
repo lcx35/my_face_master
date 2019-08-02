@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# my_face_master
-=======
 # my_face_master
 
 A new Flutter project.
